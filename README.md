@@ -1,6 +1,6 @@
 # SMS Email Bridge
 
-A Python script that creates a bidirectional bridge between SMS messages and email. 
+A Python script that creates a bidirectional bridge between SMS messages and email. Very much a hacked together proof of concept.
 
 ## Motivation
 
